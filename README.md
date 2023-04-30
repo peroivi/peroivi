@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peroivi&label=Profile%20views&color=0e75b6&style=flat" alt="peroivi" /> </p>
 
-- 🔭 I’m currently working on **UPC finishing my Computer Engineering studies.**
+- 🔭 I’m currently studying on **UPC finishing my Computer Engineering studies.**
 
 - 📫 How to reach me **pere.roca.i@estudiantat.upc.edu**
 
